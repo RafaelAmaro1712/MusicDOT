@@ -1,0 +1,19 @@
+body {
+    font-family: "Helvetica", "Lucida Grande", sans-serif;
+    color: #3D3D3D;
+}
+/* Estilo para o título principal (h1) */
+h1 {
+    background-color: #E1EDF2;
+}
+/* Estilo para o subtítulo (h2) */
+h2{
+    border-bottom: 2px solid black;
+}
+/* Estilização para elementos de figura (figure) */
+figure {
+        text-align: center;
+
+        background-color:	whitesmoke;
+	      border: 1px	solid	lightgrey;
+}
